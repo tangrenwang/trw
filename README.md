@@ -1,4 +1,4 @@
-﻿First Level Header
+First Level Header
 ================
 Second Leverl Header
 --------------
